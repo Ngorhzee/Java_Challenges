@@ -1,4 +1,5 @@
 public class SumDigit {
+    // This Challenge sums all the digit in a given number
     public static int sumDigit(int number) {
         if (number < 0) {
             return -1;

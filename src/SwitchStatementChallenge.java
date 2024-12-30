@@ -1,4 +1,5 @@
 public class SwitchStatementChallenge {
+    // A switch statement challenge
     public static String getNatoWord(char letter){
         switch (letter){
             case 'A':

@@ -1,4 +1,5 @@
 public class EvenDigiSum {
+    // This Challenge sums all the even digit in a given number
     public static int getEvenDigitSum(int number) {
         String numberString = "" + number;
         String[] strArray = numberString.split("");

@@ -1,4 +1,5 @@
 public class MethodOverloading {
+    // This challenge practices method overloading
     public static double convertToCentimeters (int inches){
         double centimeters = inches *2.54;
         return  centimeters;

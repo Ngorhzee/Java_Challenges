@@ -1,4 +1,5 @@
 public class IsPrimeChalenge {
+    // This challenge checks if a number is a prime number
     public static void main(String[] args) {
        int counter = 0;
         for (int i=0; i<=1000; i++){

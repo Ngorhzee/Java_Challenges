@@ -1,4 +1,5 @@
 public class SecondAndMinutesChallenge {
+    //This Challenge also practice method overloading and converts minutes and seconds to hours
     public static String convertToHours (int seconds){
        if(seconds<0){
            return "Invalid Time";

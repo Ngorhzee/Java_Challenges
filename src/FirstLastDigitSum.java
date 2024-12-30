@@ -1,4 +1,5 @@
 public class FirstLastDigitSum {
+    // This challenge Sums the first and last digit of a given integer number
     public static int sumFirstAndLastDigit(int number) {
         if (number < 0) {
             return -1;
